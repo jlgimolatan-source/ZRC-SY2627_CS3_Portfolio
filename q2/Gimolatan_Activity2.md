@@ -3,7 +3,7 @@
 corresponding class diagram in your notebook. Clearly identify the attributes and methods of
 each class. Show the correct inheritance relationship between classes.
 
-DONE SIR
+DONE SIR check the photo in Diagramsuwu.drawio
 
 2. Run the code examples in your IDE. Modify the code by adding getter and setter methods,
 changing object values, adding new objects, and adjusting method outputs. Observe how
